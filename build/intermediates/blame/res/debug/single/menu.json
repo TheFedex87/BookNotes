@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\Federico\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\res\\merged\\debug\\menu\\books_list.xml",
+        "source": "C:\\Users\\Federico\\AndroidStudioProjects\\BookNotes\\res\\menu\\books_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Federico\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\res\\merged\\debug\\menu\\notes_list.xml",
+        "source": "C:\\Users\\Federico\\AndroidStudioProjects\\BookNotes\\res\\menu\\notes_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Federico\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\res\\merged\\debug\\menu\\search.xml",
+        "source": "C:\\Users\\Federico\\AndroidStudioProjects\\BookNotes\\res\\menu\\search.xml"
+    },
+    {
+        "merged": "E:\\Drive\\ADT\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\res\\merged\\debug\\menu\\arguments_list.xml",
+        "source": "E:\\Drive\\ADT\\AndroidStudioProjects\\BookNotes\\res\\menu\\arguments_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Federico\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\res\\merged\\debug\\menu\\arguments_list.xml",
+        "source": "C:\\Users\\Federico\\AndroidStudioProjects\\BookNotes\\res\\menu\\arguments_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Federico\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\res\\merged\\debug\\menu\\sliding_tab_layout_test.xml",
+        "source": "C:\\Users\\Federico\\AndroidStudioProjects\\BookNotes\\res\\menu\\sliding_tab_layout_test.xml"
+    },
+    {
+        "merged": "E:\\Drive\\ADT\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\res\\merged\\debug\\menu\\sliding_tab_layout_test.xml",
+        "source": "E:\\Drive\\ADT\\AndroidStudioProjects\\BookNotes\\res\\menu\\sliding_tab_layout_test.xml"
+    },
+    {
+        "merged": "E:\\Drive\\ADT\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\res\\merged\\debug\\menu\\search.xml",
+        "source": "E:\\Drive\\ADT\\AndroidStudioProjects\\BookNotes\\res\\menu\\search.xml"
+    },
+    {
+        "merged": "E:\\Drive\\ADT\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\res\\merged\\debug\\menu\\notes_list.xml",
+        "source": "E:\\Drive\\ADT\\AndroidStudioProjects\\BookNotes\\res\\menu\\notes_list.xml"
+    },
+    {
+        "merged": "E:\\Drive\\ADT\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\res\\merged\\debug\\menu\\books_list.xml",
+        "source": "E:\\Drive\\ADT\\AndroidStudioProjects\\BookNotes\\res\\menu\\books_list.xml"
+    }
+]

@@ -1,0 +1,93 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <include
+            android:id="@+id/app_bar"
+            layout="@layout/app_bar"></include>
+    
+    <TableLayout android:id="@+id/tableLayoutMain"
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    
+	    android:shrinkColumns="0"
+	    android:stretchColumns="0"
+	    android:padding="16dp">
+	
+	    <TableRow
+	        android:id="@+id/tableRow1"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:paddingBottom="15dp" >
+	
+	        <EditText
+	            android:id="@+id/editTextBookTitle"
+	            android:layout_height="match_parent"
+	            android:hint="@string/bookTitleHint"
+	            android:imeOptions="actionNext"
+	            android:inputType="text"
+	             />
+	
+	        <ImageButton
+	            android:id="@+id/btnSaveBookTitle"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:layout_gravity="center_vertical"
+	            style="?android:attr/buttonBarButtonStyle"
+	            android:src="@drawable/ic_action_save_dark" />
+	
+	    </TableRow>
+	
+	    <TableRow
+	        android:id="@+id/tableRow2"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_weight="1"
+	         >
+	
+	        <!--<ListView
+	            android:id="@+id/listViewBooks"
+	            android:layout_width="fill_parent"
+	            android:layout_height="wrap_content"
+	            android:layout_span="2"
+	            android:divider="@color/colorAccent"
+	            android:dividerHeight="1px">
+	
+	        </ListView>-->
+			<android.support.v7.widget.RecyclerView
+            	android:id="@+id/recyclerViewBooks"
+            	android:layout_width="match_parent"
+            	android:layout_height="wrap_content"
+				android:layout_span="2"/>
+
+    </TableRow>
+
+    <!--<TableRow
+        android:id="@+id/tableRow3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <EditText
+            android:id="@+id/textViewTest"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:text="Test immagine %%img%% ciao" />
+
+        <Button
+            android:id="@+id/btnCameraTest"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button" />
+
+        <Button
+            android:id="@+id/btnTestSavessb"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button" />
+
+    </TableRow>  -->
+	
+	</TableLayout>
+</LinearLayout>

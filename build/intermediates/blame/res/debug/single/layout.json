@@ -1,0 +1,250 @@
+[
+    {
+        "merged": "E:\\Drive\\ADT\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "E:\\Drive\\ADT\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Federico\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar.xml",
+        "source": "C:\\Users\\Federico\\AndroidStudioProjects\\BookNotes\\res\\layout\\app_bar.xml"
+    },
+    {
+        "merged": "E:\\Drive\\ADT\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "E:\\Drive\\ADT\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Federico\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Federico\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\Drive\\ADT\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "E:\\Drive\\ADT\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Federico\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Federico\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Federico\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\res\\merged\\debug\\layout\\searchview_layout.xml",
+        "source": "C:\\Users\\Federico\\AndroidStudioProjects\\BookNotes\\res\\layout\\searchview_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Federico\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Federico\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\Drive\\ADT\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "E:\\Drive\\ADT\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\Federico\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\res\\merged\\debug\\layout\\activity_notes_list.xml",
+        "source": "C:\\Users\\Federico\\AndroidStudioProjects\\BookNotes\\res\\layout\\activity_notes_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Federico\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\res\\merged\\debug\\layout\\line_layout.xml",
+        "source": "C:\\Users\\Federico\\AndroidStudioProjects\\BookNotes\\res\\layout\\line_layout.xml"
+    },
+    {
+        "merged": "E:\\Drive\\ADT\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\res\\merged\\debug\\layout\\custom_tab_view.xml",
+        "source": "E:\\Drive\\ADT\\AndroidStudioProjects\\BookNotes\\res\\layout\\custom_tab_view.xml"
+    },
+    {
+        "merged": "E:\\Drive\\ADT\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\res\\merged\\debug\\layout\\activity_books_list.xml",
+        "source": "E:\\Drive\\ADT\\AndroidStudioProjects\\BookNotes\\res\\layout\\activity_books_list.xml"
+    },
+    {
+        "merged": "E:\\Drive\\ADT\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "E:\\Drive\\ADT\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\Drive\\ADT\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "E:\\Drive\\ADT\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Drive\\ADT\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "E:\\Drive\\ADT\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\Drive\\ADT\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\res\\merged\\debug\\layout\\line_layout.xml",
+        "source": "E:\\Drive\\ADT\\AndroidStudioProjects\\BookNotes\\res\\layout\\line_layout.xml"
+    },
+    {
+        "merged": "E:\\Drive\\ADT\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "E:\\Drive\\ADT\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\Drive\\ADT\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "E:\\Drive\\ADT\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Drive\\ADT\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar.xml",
+        "source": "E:\\Drive\\ADT\\AndroidStudioProjects\\BookNotes\\res\\layout\\app_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Federico\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Federico\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Drive\\ADT\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\Drive\\ADT\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Federico\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Federico\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Federico\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Federico\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\Drive\\ADT\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\res\\merged\\debug\\layout\\activity_arguments_list.xml",
+        "source": "E:\\Drive\\ADT\\AndroidStudioProjects\\BookNotes\\res\\layout\\activity_arguments_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Federico\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Federico\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Federico\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Federico\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Federico\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\res\\merged\\debug\\layout\\custom_tab_view.xml",
+        "source": "C:\\Users\\Federico\\AndroidStudioProjects\\BookNotes\\res\\layout\\custom_tab_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Federico\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Federico\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\Drive\\ADT\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\res\\merged\\debug\\layout\\searchview_layout.xml",
+        "source": "E:\\Drive\\ADT\\AndroidStudioProjects\\BookNotes\\res\\layout\\searchview_layout.xml"
+    },
+    {
+        "merged": "E:\\Drive\\ADT\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "E:\\Drive\\ADT\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\Drive\\ADT\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "E:\\Drive\\ADT\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Drive\\ADT\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search.xml",
+        "source": "E:\\Drive\\ADT\\AndroidStudioProjects\\BookNotes\\res\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "E:\\Drive\\ADT\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "E:\\Drive\\ADT\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Federico\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Federico\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\Federico\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Federico\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\Federico\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_dropdown_hint.xml",
+        "source": "C:\\Users\\Federico\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "C:\\Users\\Federico\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "C:\\Users\\Federico\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Federico\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Federico\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\Drive\\ADT\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "E:\\Drive\\ADT\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\Drive\\ADT\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\Drive\\ADT\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Federico\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\res\\merged\\debug\\layout\\activity_arguments_list.xml",
+        "source": "C:\\Users\\Federico\\AndroidStudioProjects\\BookNotes\\res\\layout\\activity_arguments_list.xml"
+    },
+    {
+        "merged": "E:\\Drive\\ADT\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "E:\\Drive\\ADT\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\Drive\\ADT\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\res\\merged\\debug\\layout\\activity_notes_list.xml",
+        "source": "E:\\Drive\\ADT\\AndroidStudioProjects\\BookNotes\\res\\layout\\activity_notes_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Federico\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Federico\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Drive\\ADT\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\Drive\\ADT\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\Drive\\ADT\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\Drive\\ADT\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Federico\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Federico\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\Federico\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search.xml",
+        "source": "C:\\Users\\Federico\\AndroidStudioProjects\\BookNotes\\res\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Federico\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Federico\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Federico\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\res\\merged\\debug\\layout\\activity_books_list.xml",
+        "source": "C:\\Users\\Federico\\AndroidStudioProjects\\BookNotes\\res\\layout\\activity_books_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Federico\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Federico\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\Drive\\ADT\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "E:\\Drive\\ADT\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\Drive\\ADT\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_dropdown_hint.xml",
+        "source": "E:\\Drive\\ADT\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "C:\\Users\\Federico\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Federico\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Federico\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Federico\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Drive\\ADT\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "E:\\Drive\\ADT\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\Drive\\ADT\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "E:\\Drive\\ADT\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Federico\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Federico\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Federico\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Federico\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Drive\\ADT\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "E:\\Drive\\ADT\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Federico\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Federico\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    }
+]

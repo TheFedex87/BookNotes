@@ -1,0 +1,174 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="it.thefedex87.booknotes.SearchActivity"
+    android:orientation="vertical" >
+    
+    <include
+            android:id="@+id/app_bar"
+            layout="@layout/app_bar"/>
+    
+    <it.thefedex87.booknotes.tabs.SlidingTabLayout
+	            android:id="@+id/tabs"
+	            android:layout_width="match_parent"
+	            android:layout_height="wrap_content"/>
+
+    <android.support.v4.view.ViewPager android:id="@+id/pager"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:padding="16dp">
+        
+        <LinearLayout
+            android:id="@+id/tab_search_book"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <!--<ListView
+                android:id="@+id/list_view_search_books"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:divider="@color/colorAccent"
+                android:dividerHeight="1px" >
+
+            </ListView>-->
+            <android.support.v7.widget.RecyclerView
+                android:id="@+id/recyclerViewBooks"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_span="2"/>
+            
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/tab_search_argument"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"  >
+            
+            <!--<ListView
+                android:id="@+id/list_view_search_arguments"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:divider="@color/colorAccent"
+                android:dividerHeight="1px" >
+
+            </ListView>-->
+            <android.support.v7.widget.RecyclerView
+                android:id="@+id/recyclerViewArguments"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_span="2"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/tab_search_note"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"  >
+
+            <!--<ListView
+                android:id="@+id/list_view_search_notes"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:divider="@color/colorAccent"
+                android:dividerHeight="1px" >
+
+            </ListView>-->
+            <android.support.v7.widget.RecyclerView
+                android:id="@+id/recyclerViewNotes"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_span="2"/>
+        </LinearLayout>
+    </android.support.v4.view.ViewPager>
+</LinearLayout>
+<!--<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    
+    tools:context="it.thefedex87.booknotes.SearchActivity"
+    android:orientation="vertical" >
+    
+    <include
+            android:id="@+id/app_bar"
+            layout="@layout/app_bar"></include>
+
+    <TabHost
+        android:id="@+id/tab_host_search"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <TabWidget
+                android:id="@android:id/tabs"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" >
+            </TabWidget>
+
+            <FrameLayout
+                android:id="@android:id/tabcontent"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" >
+
+                <LinearLayout
+                    android:id="@+id/tab_search_book"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical" >
+
+                    <ListView 
+                        android:id="@+id/list_view_search_books"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:divider="@color/colorAccent"
+                        android:dividerHeight="1px" >
+
+                    </ListView>
+                    
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/tab_search_argument"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"  >
+                    
+                    <ListView
+                        android:id="@+id/list_view_search_arguments"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:divider="@color/colorAccent"
+                        android:dividerHeight="1px" >
+
+                    </ListView>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/tab_search_note"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"  >
+
+                    <ListView
+                        android:id="@+id/list_view_search_notes"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:divider="@color/colorAccent"
+                        android:dividerHeight="1px" >
+
+                    </ListView>
+                </LinearLayout>
+            </FrameLayout>
+        </LinearLayout>
+    </TabHost>
+
+</LinearLayout>-->

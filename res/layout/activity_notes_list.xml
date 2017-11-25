@@ -1,0 +1,130 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+ 
+    <include
+            android:id="@+id/app_bar"
+            layout="@layout/app_bar"></include>
+    
+    <it.thefedex87.booknotes.tabs.SlidingTabLayout
+	            android:id="@+id/tabs"
+	            android:layout_width="match_parent"
+	            android:layout_height="wrap_content"/>
+	
+		    
+    <android.support.v4.view.ViewPager
+        android:id="@+id/pager"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.8"
+        android:padding="16dp">
+        
+        <LinearLayout android:id="@+id/tab_note_gallery"
+		    android:layout_width="match_parent"
+		    android:layout_height="wrap_content"
+		    android:orientation="vertical" >
+		
+		    <LinearLayout
+		        android:id="@+id/layout_loading"
+		        android:layout_width="match_parent"
+		        android:layout_height="match_parent"
+		        android:gravity="center"
+		        android:orientation="vertical"
+		        android:visibility="gone" >
+		
+		        <TextView
+		            android:id="@+id/textViewLoading"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:text="@string/loading"
+		             />
+		
+		        <ProgressBar
+		            android:id="@+id/progressBarLoading"
+		            style="?android:attr/progressBarStyleLarge"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content" />
+		    </LinearLayout>
+		
+		    <GridView
+		        android:id="@+id/gridViewImages"
+		        android:layout_width="fill_parent"
+		        android:layout_height="fill_parent"
+		        android:gravity="center"
+		        android:horizontalSpacing="10dp"
+		        android:numColumns="2"
+		        android:padding="5dp"
+		        android:stretchMode="columnWidth"
+		        android:verticalSpacing="10dp" >
+		    </GridView>
+		</LinearLayout>
+		
+           
+        <LinearLayout android:id="@+id/tab_note_text"
+		    android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+		    android:orientation="vertical">
+		    
+		    <ScrollView android:id="@+id/scrollViewNote"
+		        android:layout_width="match_parent"
+		        android:layout_height="match_parent"
+		        android:layout_span="2"
+		        android:padding="5dp" >
+		
+		        <TableLayout
+		            android:id="@+id/tableLayoutNotes"
+		            android:layout_width="match_parent"
+		            android:layout_height="wrap_content"
+		            
+		            android:padding="5dp"
+		            android:stretchColumns="*" >
+		
+		            <EditText
+		                android:id="@+id/editTextEditNote"
+		                style="android:editTextStyle"
+		                android:layout_width="fill_parent"
+		                android:layout_height="wrap_content"
+		                android:background="@null"
+		                android:ems="10"
+		                android:gravity="top"
+		                android:scrollHorizontally="false"
+		                android:scrollbars="vertical" />
+		        </TableLayout>
+		    </ScrollView>
+		
+		</LinearLayout>
+        
+    </android.support.v4.view.ViewPager>
+
+	<LinearLayout
+        android:id="@+id/tableRow4"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+         
+        android:divider="@drawable/vertical_divider"
+        android:showDividers="middle" >
+		
+        <ImageButton
+            android:id="@+id/btnCamera"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.5"
+            android:src="@drawable/ic_action_camera_dark" />
+
+        <ImageButton
+            android:id="@+id/btnSTT"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.5"
+            android:src="@drawable/ic_action_stt_dark" />
+
+            <!--android:background="@drawable/btn_default_holo_light"-->
+            
+            
+        
+    </LinearLayout>
+</LinearLayout>

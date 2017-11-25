@@ -1,0 +1,68 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <include
+            android:id="@+id/app_bar"
+            layout="@layout/app_bar"></include>
+
+	<TableLayout android:id="@+id/tableLayoutMain"
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    
+	    android:shrinkColumns="0"
+	    android:stretchColumns="0"
+	    android:padding="16dp">
+	    
+	    <TableRow
+	        android:id="@+id/tableRow2"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:paddingBottom="15dp" >
+	
+	        <EditText
+	            android:id="@+id/editTextArgumentTitle"
+	            android:layout_height="match_parent"
+	            android:hint="@string/argumentTitleHint"
+	            android:imeOptions="actionNext"
+	            android:inputType="text"
+	            />
+	
+	        <ImageButton
+	            android:id="@+id/btnSaveArgumentTitle"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:layout_gravity="center_vertical"
+	            android:src="@drawable/ic_action_save_dark"
+	            android:text="@string/saveBook"
+	            style="?android:attr/buttonBarButtonStyle" />
+	
+	    </TableRow>
+	
+	    <TableRow
+	        android:id="@+id/tableRow3"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_weight="1"
+	         >
+	
+	        <!--<ListView
+	            android:id="@+id/listViewArguments"
+	            android:layout_width="fill_parent"
+	            android:layout_height="wrap_content"
+	            android:layout_span="2"
+	            android:divider="@color/colorAccent"
+	            android:dividerHeight="1px">
+	        </ListView>-->
+			<android.support.v7.widget.RecyclerView
+				android:id="@+id/recyclerViewArguments"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:layout_span="2"/>
+	
+	    </TableRow>
+	
+	</TableLayout>
+</LinearLayout>

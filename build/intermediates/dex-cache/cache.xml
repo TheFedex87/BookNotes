@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Federico\AndroidStudioProjects\BookNotes\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\Federico\AndroidStudioProjects\BookNotes\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-21.0.3_10d3722abce4a752cc5b98bb7e875347029d22df.jar" />
+    </item>
+    <item
+        jar="C:\Users\Federico\AndroidStudioProjects\BookNotes\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3e4e879d0b3dc11f2feb3f55e77e3b5bd82c4a28">
+        <dex dex="C:\Users\Federico\AndroidStudioProjects\BookNotes\build\intermediates\pre-dexed\debug\android-support-v4_e36f316795251c7559c5c95ef4527d39adcf2ec5.jar" />
+    </item>
+    <item
+        jar="E:\Drive\ADT\AndroidStudioProjects\BookNotes\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="E:\Drive\ADT\AndroidStudioProjects\BookNotes\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-21.0.3_afb65814c16dddd408ca966859777b3737073a7d\classes.dex" />
+    </item>
+    <item
+        jar="E:\Drive\ADT\AndroidStudioProjects\BookNotes\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="c900b48a07ecb51487afae2102d389cffb032c93">
+        <dex dex="E:\Drive\ADT\AndroidStudioProjects\BookNotes\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_223421fbb019f4d81b542f47d066455bbba520e0\classes.dex" />
+    </item>
+    <item
+        jar="E:\Drive\ADT\AndroidStudioProjects\BookNotes\libs\android-support-v4.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="3e4e879d0b3dc11f2feb3f55e77e3b5bd82c4a28">
+        <dex dex="E:\Drive\ADT\AndroidStudioProjects\BookNotes\build\intermediates\transforms\dex\debug\folders\1000\2\android-support-v4_3221b4d81e499c1d8961a604982ee5e6d3a3add1\classes.dex" />
+    </item>
+    <item
+        jar="E:\Drive\ADT\AndroidStudioProjects\BookNotes\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="e0f1bb226f76befa8f6b52b7229c35e772d1a448">
+        <dex dex="E:\Drive\ADT\AndroidStudioProjects\BookNotes\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_7b301b10a8b34829982f795edfc9f2c9cce3a2d9\classes.dex" />
+    </item>
+    <item
+        jar="E:\Drive\ADT\AndroidStudioProjects\BookNotes\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="E:\Drive\ADT\AndroidStudioProjects\BookNotes\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-21.0.3_083ecbd44202a14cc23cf3e0085fb2049cd3561b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Federico\AndroidStudioProjects\BookNotes\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="C:\Users\Federico\AndroidStudioProjects\BookNotes\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-21.0.3_cfcd7b39fcee66cd75d82a6742b86906aab13611.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\Drive\\ADT\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\tab_bg.xml",
+        "source": "E:\\Drive\\ADT\\AndroidStudioProjects\\BookNotes\\res\\drawable-v21\\tab_bg.xml"
+    },
+    {
+        "merged": "E:\\Drive\\ADT\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\item_bg.xml",
+        "source": "E:\\Drive\\ADT\\AndroidStudioProjects\\BookNotes\\res\\drawable-v21\\item_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Federico\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\tab_bg.xml",
+        "source": "C:\\Users\\Federico\\AndroidStudioProjects\\BookNotes\\res\\drawable-v21\\tab_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Federico\\AndroidStudioProjects\\BookNotes\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\item_bg.xml",
+        "source": "C:\\Users\\Federico\\AndroidStudioProjects\\BookNotes\\res\\drawable-v21\\item_bg.xml"
+    }
+]
